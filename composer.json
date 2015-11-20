@@ -1,0 +1,14 @@
+{
+    "name": "hieuit7/utility",
+    "description": "Sring utility",
+    "type": "lib",
+    "license": "APACHE",
+    "authors": [
+        {
+            "name": "hieuit7",
+            "email": "hieunguyenminh.93@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
